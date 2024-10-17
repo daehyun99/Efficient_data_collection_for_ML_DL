@@ -1,1 +1,1 @@
-# -CapsthonDesign-Efficient_data_collection_for_ML_DL
+# Efficient_data_collection_for_ML_DL
